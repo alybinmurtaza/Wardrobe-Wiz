@@ -1,6 +1,6 @@
 # WardrobeWiz
 
-WardrobeWiz is a Vite + React front-end for a virtual try-on experience that blends AI styling, retrieval-augmented outfit generation, and sustainability insights. Everything runs purely in the browser right now so we can perfect the UX before wiring up the backend.
+WardrobeWiz is a Vite + React front-end for a virtual try-on experience that blends AI styling, retrieval-augmented outfit generation, and sustainability insights. Everything runs purely in the browser right now so we can perfect the UX before wiring up the backend 
 
 ## Stack
 
